@@ -1,6 +1,0 @@
---Activity 3    
-SELECT salesman_id, salesman_city FROM Salesman;
-
-SELECT * FROM Salesman WHERE salesman_city= 'Paris';
-
-SELECT salesman_id, commission FROM Salesman WHERE salesman_name= 'Paul Adam';
