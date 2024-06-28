@@ -1,8 +1,5 @@
-- Add the grade column
-ALTER TABLE salesman ADD grade int;
+--Activity 4
+ALTER TABLE Salesman ADD grade int;
 
--- Update the values in the grade column
-UPDATE salesman SET grade=100;
-
--- Display data
-SELECT * FROM salesman;
+UPDATE salesman SET grade= 100;
+SELECT * FROM Salesman
