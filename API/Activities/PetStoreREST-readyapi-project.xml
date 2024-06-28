@@ -130,7 +130,7 @@
         <con:setting id="ErrorDetails">true</con:setting>
         <con:setting id="IncludeCoverage">true</con:setting>
         <con:setting id="GeneratableJUnitReport@Style">Single Page (Print)</con:setting>
-        <con:setting id="GeneratableJUnitReport@Folder">C:\Users\003A1S744\Desktop\FST SoapUI</con:setting>
+        <con:setting id="GeneratableJUnitReport@Folder">C:\Users\002VBT744\Desktop\FST SoapUI</con:setting>
         <con:setting id="GeneratableJUnitReport@Modify">false</con:setting>
       </con:settings>
       <con:testStep type="datasource" name="DataSource" id="a9b4b607-9737-4e5f-9a65-9b5c6a0cfa73">
